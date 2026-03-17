@@ -2,6 +2,10 @@
   "year": 2026,
   "specialdays": [
     {
+      "name": "Special Day",
+      "date": "16-03-2026"
+    },
+    {
       "name": "GSTR-3B Day",
       "date": "17-03-2026"
     }
