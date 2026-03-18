@@ -3,13 +3,273 @@
   "specialdays": [
     {
       "wish": "Happy",
-      "name": "Special Day",
-      "date": "16-03-2026"
-      
+      "name": "New Year's Day",
+      "date": "2026-01-01"
     },
     {
-      "name": "GSTR-3B Final Day",
+      "wish": "Wishing you a blessed",
+      "name": "Hazarat Ali's Birthday",
+      "date": "2026-01-03"
+    },
+    {
+      "wish": "Happy",
+      "name": "Pongal",
+      "date": "2026-01-14"
+    },
+    {
+      "wish": "Happy",
+      "name": "Makar Sankranti",
+      "date": "2026-01-14"
+    },
+    {
+      "wish": "Happy",
+      "name": "Vasant Panchami",
+      "date": "2026-01-23"
+    },
+    {
+      "wish": "Proud wishes on",
+      "name": "Republic Day",
+      "date": "2026-01-26"
+    },
+    {
+      "wish": "Happy",
+      "name": "Valentine's Day",
+      "date": "2026-02-14"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Maha Shivaratri",
+      "date": "2026-02-15"
+    },
+    {
+      "wish": "Happy",
+      "name": "Lunar New Year",
+      "date": "2026-02-17"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Ramadan Start",
+      "date": "2026-02-19"
+    },
+    {
+      "wish": "Honouring",
+      "name": "Shivaji Jayanti",
+      "date": "2026-02-19"
+    },
+    {
+      "wish": "Happy",
+      "name": "Holi",
+      "date": "2026-03-04"
+    },
+        {
+      "wish": "Wishing you a blessed",
+      "name": "First day of Passover",
       "date": "2026-03-18"
+    },
+    {
+      "wish": "Happy",
+      "name": "Ugadi",
+      "date": "2026-03-19"
+    },
+    {
+      "wish": "Welcome",
+      "name": "March Equinox",
+      "date": "2026-03-20"
+    },
+    {
+      "wish": "Eid Mubarak",
+      "name": "Ramzan Eid-ul-Fitar",
+      "date": "2026-03-21"
+    },
+    {
+      "wish": "Happy",
+      "name": "Rama Navami",
+      "date": "2026-03-26"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "First day of Passover",
+      "date": "2026-04-02"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Maundy Thursday",
+      "date": "2026-04-02"
+    },
+    {
+      "wish": "Observing",
+      "name": "Good Friday",
+      "date": "2026-04-03"
+    },
+    {
+      "wish": "Happy",
+      "name": "Easter Day",
+      "date": "2026-04-05"
+    },
+    {
+      "wish": "Honouring",
+      "name": "Ambedkar Jayanti",
+      "date": "2026-04-14"
+    },
+    {
+      "wish": "Warm wishes on",
+      "name": "International Worker's Day",
+      "date": "2026-05-01"
+    },
+    {
+      "wish": "Happy",
+      "name": "Mothers' Day",
+      "date": "2026-05-10"
+    },
+    {
+      "wish": "Eid Mubarak",
+      "name": "Bakrid/Eid ul-Adha",
+      "date": "2026-05-28"
+    },
+    {
+      "wish": "Happy",
+      "name": "Fathers' Day",
+      "date": "2026-06-21"
+    },
+    {
+      "wish": "Welcome",
+      "name": "June Solstice",
+      "date": "2026-06-21"
+    },
+    {
+      "wish": "Remembering",
+      "name": "Muharram/Ashura",
+      "date": "2026-06-26"
+    },
+    {
+      "wish": "Happy",
+      "name": "Rath Yatra",
+      "date": "2026-07-16"
+    },
+    {
+      "wish": "Happy",
+      "name": "Friendship Day",
+      "date": "2026-08-02"
+    },
+    {
+      "wish": "Proud wishes on",
+      "name": "Independence Day",
+      "date": "2026-08-15"
+    },
+    {
+      "wish": "Happy",
+      "name": "Onam",
+      "date": "2026-08-26"
+    },
+    {
+      "wish": "Happy",
+      "name": "Raksha Bandhan",
+      "date": "2026-08-28"
+    },
+    {
+      "wish": "Happy",
+      "name": "Krishna Janmashtami",
+      "date": "2026-09-04"
+    },
+    {
+      "wish": "Happy",
+      "name": "Krishna Janmashtami",
+      "date": "2026-09-04"
+    },
+    {
+      "wish": "Happy",
+      "name": "Ganesh Chaturthi",
+      "date": "2026-09-14"
+    },
+    {
+      "wish": "Welcome",
+      "name": "September Equinox",
+      "date": "2026-09-23"
+    },
+    {
+      "wish": "Honouring",
+      "name": "Mahatma Gandhi Jayanti",
+      "date": "2026-10-02"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "First Day of Sharad Navratri",
+      "date": "2026-10-11"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "First Day of Durga Puja",
+      "date": "2026-10-17"
+    },
+    {
+      "wish": "Happy",
+      "name": "Dussehra",
+      "date": "2026-10-20"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Karaka Chaturthi",
+      "date": "2026-10-29"
+    },
+    {
+      "wish": "Enjoy",
+      "name": "Halloween",
+      "date": "2026-10-31"
+    },
+    {
+      "wish": "Happy",
+      "name": "Deepavali",
+      "date": "2026-11-08"
+    },
+    {
+      "wish": "Happy",
+      "name": "Bhai Duj",
+      "date": "2026-11-11"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Surya Sashthi",
+      "date": "2026-11-15"
+    },
+    {
+      "wish": "Remembering",
+      "name": "Guru Tegh Bahadur's Martyrdom Day",
+      "date": "2026-11-24"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "First Day of Hanukkah",
+      "date": "2026-12-05"
+    },
+    {
+      "wish": "Warm wishes on",
+      "name": "Last day of Hanukkah",
+      "date": "2026-12-12"
+    },
+    {
+      "wish": "Welcome",
+      "name": "December Solstice",
+      "date": "2026-12-22"
+    },
+    {
+      "wish": "Wishing you a blessed",
+      "name": "Hazarat Ali's Birthday",
+      "date": "2026-12-23"
+    },
+    {
+      "wish": "Warm wishes for",
+      "name": "Christmas Eve",
+      "date": "2026-12-24"
+    },
+    {
+      "wish": "Merry",
+      "name": "Christmas",
+      "date": "2026-12-25"
+    },
+    {
+      "wish": "Warm wishes for",
+      "name": "New Year's Eve",
+      "date": "2026-12-31"
     }
   ]
 }
