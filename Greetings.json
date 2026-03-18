@@ -2,12 +2,15 @@
   "year": 2026,
   "specialdays": [
     {
+      "wish": "Happy",
       "name": "Special Day",
       "date": "16-03-2026"
+      
     },
     {
+      "wish": "Happy",
       "name": "Yugadi",
-      "date": "17-03-2026"
+      "date": "18-03-2026"
     }
   ]
 }
