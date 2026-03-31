@@ -2,9 +2,9 @@
   "year": 2026,
   "specialdays": [
     {
-      "wish": "Wishing you a blessed",
-      "name": "First day of Passover",
-      "date": "2026-04-02"
+      "wish": "Happy",
+      "name": "Financial Year Closing!",
+      "date": "2026-03-31"
     },
     {
       "wish": "Observing",
@@ -83,11 +83,6 @@
     },
     {
       "wish": "Happy",
-      "name": "Krishna Janmashtami",
-      "date": "2026-09-04"
-    },
-    {
-      "wish": "Happy",
       "name": "Ganesh Chaturthi",
       "date": "2026-09-14"
     },
@@ -113,7 +108,7 @@
     },
     {
       "wish": "Happy",
-      "name": "Dussehra",
+      "name": "Vijayadashami",
       "date": "2026-10-20"
     },
     {
@@ -177,8 +172,8 @@
       "date": "2026-12-25"
     },
     {
-      "wish": "Warm wishes for",
-      "name": "New Year's Eve",
+      "wish": "Wishing you a",
+      "name": "Happy Year End!",
       "date": "2026-12-31"
     }
   ]
